@@ -1,0 +1,52 @@
+additional_tags = []
+author = "Sir Arthur Conan Doyle"
+categories = [
+  "Gen",
+]
+chapters = [
+  { content_file = "part-1.html", interstitial = false, title = "Part I" },
+  { content_file = "part-2.html", interstitial = false, title = "Part II" },
+  { content_file = "part-3.html", interstitial = false, title = "Part III" },
+]
+characters = [
+  [
+    "Sherlock Holmes",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes",
+  ],
+  [
+    "John Watson",
+    "https://archiveofourown.org/tags/John%20Watson",
+  ],
+  [
+    "Irene Adler",
+    "https://archiveofourown.org/tags/Irene%20Adler%20(Sherlock%20Holmes)",
+  ],
+]
+collections = []
+display_chapter_numbers = false
+fandoms = [
+  [
+    "Sherlock Holmes - Arthur Conan Doyle",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle",
+  ],
+]
+is_complete = true
+ordering = 3
+pubdate = 1891-06-01
+pubdate_granularity = "MONTH"
+rating = "Not Rated"
+relationships = [
+  [
+    "Sherlock Holmes & John Watson",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes%20*a*%20John%20Watson",
+  ],
+  [
+    "Irene Adler & Sherlock Holmes",
+    "https://archiveofourown.org/tags/Irene%20Adler%20*a*%20Sherlock%20Holmes",
+  ],
+]
+summary = "<p>Holmes attempts to recover some sensitive papers on behalf of the King of Bohemia.</p>"
+title = "A Scandal in Bohemia"
+warnings = [
+  "No Archive Warnings Apply",
+]

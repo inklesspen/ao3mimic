@@ -1,0 +1,49 @@
+additional_tags = [
+  [
+    "Codes & Ciphers",
+    "https://archiveofourown.org/tags/Codes%20&%20Ciphers",
+  ],
+]
+author = "Sir Arthur Conan Doyle"
+categories = [
+  "Gen",
+]
+characters = [
+  [
+    "Sherlock Holmes",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes",
+  ],
+  [
+    "John Watson",
+    "https://archiveofourown.org/tags/John%20Watson",
+  ],
+]
+collections = []
+display_chapter_numbers = false
+fandoms = [
+  [
+    "Sherlock Holmes - Arthur Conan Doyle",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle",
+  ],
+]
+is_complete = true
+ordering = 3
+pubdate = 1903-12-01
+pubdate_granularity = "MONTH"
+rating = "Not Rated"
+relationships = [
+  [
+    "Sherlock Holmes & John Watson",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes%20*a*%20John%20Watson",
+  ],
+]
+summary = "<p>Holmes discovers a hidden meaning in a drawing of stick-figures.</p>"
+title = "The Adventure of the Dancing Men"
+warnings = [
+  "No Archive Warnings Apply",
+]
+
+[[chapters]]
+content_file = "the-adventure-of-the-dancing-men.html"
+interstitial = false
+title = "Oneshot"

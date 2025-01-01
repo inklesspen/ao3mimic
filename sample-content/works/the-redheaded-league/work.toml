@@ -1,0 +1,42 @@
+additional_tags = []
+author = "Sir Arthur Conan Doyle"
+categories = [
+  "Gen",
+]
+chapters = [
+  { content_file = "the-redheaded-league.html", interstitial = false, title = "Oneshot" },
+]
+characters = [
+  [
+    "Sherlock Holmes",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes",
+  ],
+  [
+    "John Watson",
+    "https://archiveofourown.org/tags/John%20Watson",
+  ],
+]
+collections = []
+display_chapter_numbers = false
+fandoms = [
+  [
+    "Sherlock Holmes - Arthur Conan Doyle",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle",
+  ],
+]
+is_complete = true
+ordering = 3
+pubdate = 1891-08-01
+pubdate_granularity = "MONTH"
+rating = "Not Rated"
+relationships = [
+  [
+    "Sherlock Holmes & John Watson",
+    "https://archiveofourown.org/tags/Sherlock%20Holmes%20*a*%20John%20Watson",
+  ],
+]
+summary = "<p>Holmes investigates a man’s mysterious employment.</p>"
+title = "The Red-Headed League"
+warnings = [
+  "No Archive Warnings Apply",
+]

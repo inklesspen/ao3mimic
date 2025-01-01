@@ -1,0 +1,123 @@
+additional_tags = [
+  [
+    "Gothic",
+    "https://archiveofourown.org/tags/Gothic",
+  ],
+  [
+    "Vampires",
+    "https://archiveofourown.org/tags/Vampires",
+  ],
+  [
+    "Period-Typical Racism",
+    "https://archiveofourown.org/tags/Period-Typical%20Racism",
+  ],
+  [
+    "Trains",
+    "https://archiveofourown.org/tags/Trains",
+  ],
+]
+author = "Bram Stoker"
+categories = []
+chapters = [
+  { content_file = "chapter-01.html", interstitial = false, title = "Chapter 1" },
+  { content_file = "chapter-02.html", interstitial = false, title = "Chapter 2" },
+  { content_file = "chapter-03.html", interstitial = false, title = "Chapter 3" },
+  { content_file = "chapter-04.html", interstitial = false, title = "Chapter 4" },
+  { content_file = "chapter-05.html", interstitial = false, title = "Chapter 5" },
+  { content_file = "chapter-06.html", interstitial = false, title = "Chapter 6" },
+  { content_file = "chapter-07.html", interstitial = false, title = "Chapter 7" },
+  { content_file = "chapter-08.html", interstitial = false, title = "Chapter 8" },
+  { content_file = "chapter-09.html", interstitial = false, title = "Chapter 9" },
+  { content_file = "chapter-10.html", interstitial = false, title = "Chapter 10" },
+  { content_file = "chapter-11.html", interstitial = false, title = "Chapter 11" },
+  { content_file = "chapter-12.html", interstitial = false, title = "Chapter 12" },
+  { content_file = "chapter-13.html", interstitial = false, title = "Chapter 13" },
+  { content_file = "chapter-14.html", interstitial = false, title = "Chapter 14" },
+  { content_file = "chapter-15.html", interstitial = false, title = "Chapter 15" },
+  { content_file = "chapter-16.html", interstitial = false, title = "Chapter 16" },
+  { content_file = "chapter-17.html", interstitial = false, title = "Chapter 17" },
+  { content_file = "chapter-18.html", interstitial = false, title = "Chapter 18" },
+  { content_file = "chapter-19.html", interstitial = false, title = "Chapter 19" },
+  { content_file = "chapter-20.html", interstitial = false, title = "Chapter 20" },
+  { content_file = "chapter-21.html", interstitial = false, title = "Chapter 21" },
+  { content_file = "chapter-22.html", interstitial = false, title = "Chapter 22" },
+  { content_file = "chapter-23.html", interstitial = false, title = "Chapter 23" },
+  { content_file = "chapter-24.html", interstitial = false, title = "Chapter 24" },
+  { content_file = "chapter-25.html", interstitial = false, title = "Chapter 25" },
+  { content_file = "chapter-26.html", interstitial = false, title = "Chapter 26" },
+  { content_file = "chapter-27.html", interstitial = false, title = "Chapter 27" },
+]
+characters = [
+  [
+    "Jonathan Harker",
+    "https://archiveofourown.org/tags/Jonathan%20Harker",
+  ],
+  [
+    "Dracula",
+    "https://archiveofourown.org/tags/Dracula",
+  ],
+  [
+    "Mina Murray Harker",
+    "https://archiveofourown.org/tags/Mina%20Murray%20Harker",
+  ],
+  [
+    "Lucy Westenra",
+    "https://archiveofourown.org/tags/Lucy%20Westenra%20(Dracula)",
+  ],
+  [
+    "John Seward",
+    "https://archiveofourown.org/tags/John%20Seward",
+  ],
+  [
+    "Quincey Morris",
+    "https://archiveofourown.org/tags/Quincey%20Morris",
+  ],
+  [
+    "Arthur Holmwood",
+    "https://archiveofourown.org/tags/Arthur%20Holmwood",
+  ],
+  [
+    "Abraham Van Helsing",
+    "https://archiveofourown.org/tags/Abraham%20Van%20Helsing",
+  ],
+  [
+    "Renfield",
+    "https://archiveofourown.org/tags/R*d*M*d*%20Renfield",
+  ],
+]
+collections = []
+display_chapter_numbers = false
+fandoms = [
+  [
+    "Dracula",
+    "https://archiveofourown.org/tags/Dracula%20-%20Bram%20Stoker%20(Novel%201897)",
+  ],
+]
+is_complete = true
+notes_after = "<p>Seven years ago we all went through the flames; and the happiness of some of us since then is, we think, well worth the pain we endured. It is an added joy to Mina and to me that our boy’s birthday is the same day as that on which Quincey Morris died. His mother holds, I know, the secret belief that some of our brave friend’s spirit has passed into him. His bundle of names links all our little band of men together; but we call him Quincey.</p>\n<p>In the summer of this year we made a journey to Transylvania, and went over the old ground which was, and is, to us so full of vivid and terrible memories. It was almost impossible to believe that the things which we had seen with our own eyes and heard with our own ears were living truths. Every trace of all that had been was blotted out. The castle stood as before, reared high above a waste of desolation.</p>\n<p>When we got home we were talking of the old time⁠—which we could all look back on without despair, for Godalming and Seward are both happily married. I took the papers from the safe where they had been ever since our return so long ago. We were struck with the fact, that in all the mass of material of which the record is composed, there is hardly one authentic document; nothing but a mass of typewriting, except the later notebooks of Mina and Seward and myself, and Van Helsing’s memorandum. We could hardly ask anyone, even did we wish to, to accept these as proofs of so wild a story. Van Helsing summed it all up as he said, with our boy on his knee:⁠—</p>\n<p>“We want no proofs; we ask none to believe us! This boy will some day know what a brave and gallant woman his mother is. Already he knows her sweetness and loving care; later on he will understand how some men so loved her, that they did dare much for her sake.”</p>\n<p class=\"align-right caps\">Jonathan Harker.</p>"
+notes_before = "<p>How these papers have been placed in sequence will be made manifest in the reading of them. All needless matters have been eliminated, so that the history almost at variance with the possibilities of later-day belief may stand forth as simple fact. There is throughout no statement of past things wherein memory may err, for all the records chosen are exactly contemporary, given from the standpoints and within range of knowledge of those who made them.</p>"
+ordering = 1
+pubdate = 1897-05-26
+pubdate_granularity = "DAY"
+rating = "Teen And Up Audiences"
+relationships = [
+  [
+    "Jonathan Harker/Mina Murray Harker",
+    "https://archiveofourown.org/tags/Jonathan%20Harker*s*Mina%20Murray%20Harker",
+  ],
+  [
+    "Dracula & Jonathan Harker",
+    "https://archiveofourown.org/tags/Dracula%20*a*%20Jonathan%20Harker",
+  ],
+  [
+    "Mina Murray Harker & Lucy Westenra",
+    "https://archiveofourown.org/tags/Mina%20Murray%20Harker%20*a*%20Lucy%20Westenra",
+  ],
+]
+summary = "<p>As fledgling English lawyer Jonathan Harker treks into the Carpathian Mountains to complete a real estate transaction, frightened peasants warn him of horrible dangers that await him. Harker, terrified by eerie events along the way, finally meets his client, Count Dracula, a tall, gaunt old man with a surprisingly powerful handshake. Harker soon realizes that he is a prisoner in Dracula's sumptuously furnished castle—a castle strangely devoid of mirrors. Later, as fifty coffin-sized boxes are brought into the castle in preparation for Dracula's departure, Harker knows that the count plans to do more in London than see the sights—and he fears that the rational modern world is ill-equipped to recognize, let alone defeat, the count.</p>"
+title = "Dracula"
+warnings = [
+  "Rape/Non-Con",
+  "Major Character Death",
+  "Graphic Depictions Of Violence",
+]

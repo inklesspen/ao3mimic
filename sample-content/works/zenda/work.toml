@@ -1,0 +1,166 @@
+additional_tags = [
+  [
+    "Impersonation",
+    "https://archiveofourown.org/tags/Impersonation",
+  ],
+  [
+    "Nineteenth Century Europe",
+    "https://archiveofourown.org/tags/19th%20Century",
+  ],
+  [
+    "Adventure & Romance",
+    "https://archiveofourown.org/tags/Adventure%20&%20Romance",
+  ],
+]
+author = "Anthony Hope"
+categories = [
+  "F/M",
+]
+characters = [
+  [
+    "Rudolf Rassendyll",
+    "https://archiveofourown.org/tags/Rudolf%20Rassendyll",
+  ],
+  [
+    "Princess Flavia",
+    "https://archiveofourown.org/tags/Flavia%20(Zenda)",
+  ],
+  [
+    "Rupert of Hentzau",
+    "https://archiveofourown.org/tags/Rupert%20of%20Hentzau",
+  ],
+]
+collections = []
+display_chapter_numbers = true
+fandoms = [
+  [
+    "Zenda Novels - Anthony Hope",
+    "https://archiveofourown.org/tags/Zenda%20Novels%20-%20Anthony%20Hope",
+  ],
+]
+is_complete = true
+ordering = 0
+pubdate = 1894-04-01
+pubdate_granularity = "MONTH"
+rating = "Not Rated"
+relationships = [
+  [
+    "Rudolf Rassendyll/Princess Flavia",
+    "https://archiveofourown.org/tags/Flavia*s*Rudolf%20Rassendyll",
+  ],
+]
+summary = "<p>King Rudolph V of Ruritania is drugged and abducted on the eve of his coronation, and a gentleman on holiday who happens to look like the king has to stop the sinister plot.</p>"
+title = "The Prisoner of Zenda"
+warnings = [
+  "Graphic Depictions Of Violence",
+]
+
+[[chapters]]
+content_file = "chapter-01.html"
+interstitial = false
+title = "The Rassendylls—with a Word on the Elphbergs"
+
+[[chapters]]
+content_file = "chapter-02.html"
+interstitial = false
+title = "Concerning the Colour of Men’s Hair"
+
+[[chapters]]
+content_file = "chapter-03.html"
+interstitial = false
+title = "A Merry Evening with a Distant Relative"
+
+[[chapters]]
+content_file = "chapter-04.html"
+interstitial = false
+title = "The King Keeps His Appointment"
+
+[[chapters]]
+content_file = "chapter-05.html"
+interstitial = false
+title = "The Adventures of an Understudy"
+
+[[chapters]]
+content_file = "chapter-06.html"
+interstitial = false
+title = "The Secret of a Cellar"
+
+[[chapters]]
+content_file = "chapter-07.html"
+interstitial = false
+title = "His Majesty Sleeps in Strelsau"
+
+[[chapters]]
+content_file = "chapter-08.html"
+interstitial = false
+title = "A Fair Cousin and a Dark Brother"
+
+[[chapters]]
+content_file = "chapter-09.html"
+interstitial = false
+title = "A New Use for a Tea-Table"
+
+[[chapters]]
+content_file = "chapter-10.html"
+interstitial = false
+title = "A Great Chance for a Villain"
+
+[[chapters]]
+content_file = "chapter-11.html"
+interstitial = false
+title = "Hunting a Very Big Boar"
+
+[[chapters]]
+content_file = "chapter-12.html"
+interstitial = false
+title = "I Receive a Visitor and Bait a Hook"
+
+[[chapters]]
+content_file = "chapter-13.html"
+interstitial = false
+title = "An Improvement on Jacob’s Ladder"
+
+[[chapters]]
+content_file = "chapter-14.html"
+interstitial = false
+title = "A Night Outside the Castle"
+
+[[chapters]]
+content_file = "chapter-15.html"
+interstitial = false
+title = "I Talk with a Tempter"
+
+[[chapters]]
+content_file = "chapter-16.html"
+interstitial = false
+title = "A Desperate Plan"
+
+[[chapters]]
+content_file = "chapter-17.html"
+interstitial = false
+title = "Young Rupert’s Midnight Diversions"
+
+[[chapters]]
+content_file = "chapter-18.html"
+interstitial = false
+title = "The Forcing of the Trap"
+
+[[chapters]]
+content_file = "chapter-19.html"
+interstitial = false
+title = "Face to Face in the Forest"
+
+[[chapters]]
+content_file = "chapter-20.html"
+interstitial = false
+title = "The Prisoner and the King"
+
+[[chapters]]
+content_file = "chapter-21.html"
+interstitial = false
+title = "If Love Were All!"
+
+[[chapters]]
+content_file = "chapter-22.html"
+interstitial = false
+title = "Present, Past—and Future?"

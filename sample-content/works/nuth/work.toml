@@ -1,0 +1,42 @@
+additional_tags = [
+  [
+    "Burglary",
+    "https://archiveofourown.org/tags/Burglary",
+  ],
+  [
+    "Fae & Fairies",
+    "https://archiveofourown.org/tags/Fae%20&%20Fairies",
+  ],
+]
+author = "Lord Dunsany"
+categories = [
+  "Gen",
+]
+chapters = [
+  { content_file = "nuth.html", interstitial = false, title = "Oneshot" },
+]
+characters = []
+collections = [
+  [
+    "The Book of Wonder",
+    "https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime",
+  ],
+]
+display_chapter_numbers = false
+fandoms = [
+  [
+    "Fairy Tales",
+    "https://archiveofourown.org/tags/Fairy%20Tales%20*a*%20Related%20Fandoms",
+  ],
+]
+is_complete = true
+ordering = 2
+pubdate = 1912-11-01
+pubdate_granularity = "MONTH"
+rating = "Not Rated"
+relationships = []
+summary = "<p>If there’s one thing more dangerous than being a burglar, it’s being a burglar’s apprentice.</p>"
+title = "How Nuth Would Have Practised His Art Upon the Gnoles"
+warnings = [
+  "Choose Not To Use Archive Warnings",
+]

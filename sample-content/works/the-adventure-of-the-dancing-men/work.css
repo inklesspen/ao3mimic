@@ -1,0 +1,29 @@
+.decoded-message {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img.character-symbol {
+    height: 1.25em;
+    vertical-align: middle;
+}
+
+figure {
+    break-inside: avoid;
+    margin: 1em 40px;
+    text-align: center;
+}
+
+figure img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+figure.dancing-men img {
+    width: 80%;
+}
+
+#illustration-4.dancing-men img {
+    width: 40%;
+}

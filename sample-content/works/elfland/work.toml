@@ -1,0 +1,214 @@
+additional_tags = [
+  [
+    "Fae & Fairies",
+    "https://archiveofourown.org/tags/Fae%20&%20Fairies",
+  ],
+]
+author = "Lord Dunsany"
+categories = [
+  "F/M",
+]
+characters = [
+  [
+    "Alveric",
+    "https://archiveofourown.org/tags/Alveric%20(Elfland)",
+  ],
+  [
+    "Lirazel",
+    "https://archiveofourown.org/tags/Lirazel%20(Elfland)",
+  ],
+  "Ziroonderel",
+]
+collections = []
+display_chapter_numbers = true
+download_link = "https://standardebooks.org/ebooks/lord-dunsany/the-king-of-elflands-daughter"
+fandoms = [
+  [
+    "The King of Elfland’s Daughter - Lord Dunsany",
+    "https://archiveofourown.org/tags/The%20King%20of%20Elfland%E2%80%99s%20Daughter%20-%20Lord%20Dunsany",
+  ],
+]
+is_complete = true
+notes_before = "<p>I hope that no suggestion of any strange land that may be conveyed by the title will scare readers away from this book; for, though some chapters do indeed tell of Elfland, in the greater part of them there is no more to be shown than the face of the fields we know, and ordinary English woods and a common village and valley, a good twenty or twenty-five miles from the border of Elfland.</p>"
+ordering = 2
+pubdate = 1924-05-01
+pubdate_granularity = "MONTH"
+rating = "Not Rated"
+relationships = [
+  "Alveric/Lirazel",
+]
+summary = "<p>The people of the obscure village Erl demand to be ruled by a magic lord, so their ruler sends his son Alveric to Elfland to wed the elfin princess Lirazel. He brings her back to Erl and the couple have a son, but Lirazel has trouble integrating with human society. When a scheme by her father spirits her away and Elfland vanishes, Alveric begins a mad quest to find where Elfland went.</p>"
+title = "The King of Elfland’s Daughter"
+warnings = [
+  "Choose Not To Use Archive Warnings",
+]
+
+[[chapters]]
+content_file = "chapter-01.html"
+interstitial = false
+title = "The Plan of the Parliament of Erl"
+
+[[chapters]]
+content_file = "chapter-02.html"
+interstitial = false
+title = "Alveric Comes in Sight of the Elfin Mountains"
+
+[[chapters]]
+content_file = "chapter-03.html"
+interstitial = false
+title = "The Magical Sword Meets Some of the Swords of Elfland"
+
+[[chapters]]
+content_file = "chapter-04.html"
+interstitial = false
+title = "Alveric Comes Back to Earth After Many Years"
+
+[[chapters]]
+content_file = "chapter-05.html"
+interstitial = false
+title = "The Wisdom of the Parliament of Erl"
+
+[[chapters]]
+content_file = "chapter-06.html"
+interstitial = false
+title = "The Rune of the Elf King"
+
+[[chapters]]
+content_file = "chapter-07.html"
+interstitial = false
+title = "The Coming of the Troll"
+
+[[chapters]]
+content_file = "chapter-08.html"
+interstitial = false
+title = "The Arrival of the Rune"
+
+[[chapters]]
+content_file = "chapter-09.html"
+interstitial = false
+title = "Lirazel Blows Away"
+
+[[chapters]]
+content_file = "chapter-10.html"
+interstitial = false
+title = "The Ebbing of Elfland"
+
+[[chapters]]
+content_file = "chapter-11.html"
+interstitial = false
+title = "The Deep of the Woods"
+
+[[chapters]]
+content_file = "chapter-12.html"
+interstitial = false
+title = "The Unenchanted Plain"
+
+[[chapters]]
+content_file = "chapter-13.html"
+interstitial = false
+title = "The Reticence of the Leather-Worker"
+
+[[chapters]]
+content_file = "chapter-14.html"
+interstitial = false
+title = "The Quest for the Elfin Mountains"
+
+[[chapters]]
+content_file = "chapter-15.html"
+interstitial = false
+title = "The Retreat of the Elf King"
+
+[[chapters]]
+content_file = "chapter-16.html"
+interstitial = false
+title = "Orion Hunts the Stag"
+
+[[chapters]]
+content_file = "chapter-17.html"
+interstitial = false
+title = "The Unicorn Comes in the Starlight"
+
+[[chapters]]
+content_file = "chapter-18.html"
+interstitial = false
+title = "The Grey Tent in the Evening"
+
+[[chapters]]
+content_file = "chapter-19.html"
+interstitial = false
+title = "Twelve Old Men Without Magic"
+
+[[chapters]]
+content_file = "chapter-20.html"
+interstitial = false
+title = "A Historical Fact"
+
+[[chapters]]
+content_file = "chapter-21.html"
+interstitial = false
+title = "On the Verge of Earth"
+
+[[chapters]]
+content_file = "chapter-22.html"
+interstitial = false
+title = "Orion Appoints a Whip"
+
+[[chapters]]
+content_file = "chapter-23.html"
+interstitial = false
+title = "Lurulu Watches the Restlessness of Earth"
+
+[[chapters]]
+content_file = "chapter-24.html"
+interstitial = false
+title = "Lurulu Speaks of Earth and the Ways of Men"
+
+[[chapters]]
+content_file = "chapter-25.html"
+interstitial = false
+title = "Lirazel Remembers the Fields We Know"
+
+[[chapters]]
+content_file = "chapter-26.html"
+interstitial = false
+title = "The Horn of Alveric"
+
+[[chapters]]
+content_file = "chapter-27.html"
+interstitial = false
+title = "The Return of Lurulu"
+
+[[chapters]]
+content_file = "chapter-28.html"
+interstitial = false
+title = "A Chapter on Unicorn-Hunting"
+
+[[chapters]]
+content_file = "chapter-29.html"
+interstitial = false
+title = "The Luring of the People of the Marshes"
+
+[[chapters]]
+content_file = "chapter-30.html"
+interstitial = false
+title = "The Coming of Too Much Magic"
+
+[[chapters]]
+content_file = "chapter-31.html"
+interstitial = false
+title = "The Cursing of Elfin Things"
+
+[[chapters]]
+content_file = "chapter-32.html"
+interstitial = false
+title = "Lirazel Yearns for Earth"
+
+[[chapters]]
+content_file = "chapter-33.html"
+interstitial = false
+title = "The Shining Line"
+
+[[chapters]]
+content_file = "chapter-34.html"
+interstitial = false
+title = "The Last Great Rune"

@@ -1,0 +1,42 @@
+additional_tags = [
+  [
+    "Carnival",
+    "https://archiveofourown.org/tags/Mardi%20Gras",
+  ],
+]
+author = "Edgar Allan Poe"
+categories = [
+  "Gen",
+]
+chapters = [
+  { content_file = "the-cask-of-amontillado.html", interstitial = false, title = "Oneshot" },
+]
+characters = [
+  [
+    "Montresor",
+    "https://archiveofourown.org/tags/Montresor%20(The%20Cask%20of%20Amontillado)",
+  ],
+  [
+    "Fortunato",
+    "https://archiveofourown.org/tags/Fortunato%20(The%20Cask%20of%20Amontillado)",
+  ],
+]
+collections = []
+display_chapter_numbers = false
+fandoms = [
+  [
+    "The Cask of Amontillado - Edgar Allan Poe",
+    "https://archiveofourown.org/tags/The%20Cask%20of%20Amontillado%20-%20Edgar%20Allan%20Poe",
+  ],
+]
+is_complete = true
+ordering = 4
+pubdate = 1846-11-01
+pubdate_granularity = "MONTH"
+rating = "Not Rated"
+relationships = []
+summary = "<p>Montressor takes a cruel revenge.</p>"
+title = "The Cask of Amontillado"
+warnings = [
+  "Choose Not To Use Archive Warnings",
+]
