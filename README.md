@@ -6,7 +6,7 @@ At the moment it is not particularly user-friendly, but you should be able to wo
 
 ## Basic instructions
 
-Install the ao3mimic package in the usual way (uv, pipx, etc). I have only actually tested it with Python 3.12 but it may work with earlier versions.
+Install the ao3mimic package in the usual way (uv, pipx, etc). I have only actually tested it with Python 3.12 but it may work with earlier versions. You will also need to [install Sass](https://sass-lang.com/install/) and make sure it can be found on your PATH.
 
 Configure your content directory:
 
