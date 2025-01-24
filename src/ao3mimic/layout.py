@@ -546,7 +546,7 @@ class Layout:
             if wises:
                 afterward_items.append(
                     h.div("#series.series.module")[
-                        h.h3(".heading")["Series this work belongs to:"], h.ul[h.li[(self._series_links(wis) for wis in wises)]]
+                        h.h3(".heading")["Series this work belongs to:"], h.ul[(h.li[self._series_links(wis)] for wis in wises)]
                     ]
                 )
             afterward = h.div(".afterword.preface.group")[afterward_items]
