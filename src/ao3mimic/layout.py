@@ -148,13 +148,13 @@ class Layout:
 
     def categories_symbol(self, categories: C.Sequence[Category]):
         if len(categories) == 0:
-            category_class = "none"
+            category_class = "category-none"
             category_text = "No category"
         elif len(categories) == 1:
             category_class = categories[0].css_class
             category_text = categories[0].value
         else:
-            category_class = "multi"
+            category_class = "category-multi"
             category_text = ", ".join(frozenset([str(w) for w in categories]))
         return h.li[
             h.a(".help.symbol.question", title="Symbols key")[
