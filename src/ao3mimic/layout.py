@@ -525,14 +525,12 @@ class Layout:
                     ]
                 chapterstuff.append(
                     h.div(".chapter", {"id": f"chapter-{chapter.num}"})[
-                        h.div(".chapter.preface.group", role="complementary")[
-                            chapter_preface,
-                            h.div(".userstuff.module", role="article")[
-                                h.h3("#work.landmark.heading")["Chapter Text"], clean_userstuff(chapter.content)
-                            ],
-                            chapter_afterward,
+                        h.div(".chapter.preface.group", role="complementary")[chapter_preface],
+                        h.div(".userstuff.module", role="article")[
+                            h.h3("#work.landmark.heading")["Chapter Text"], clean_userstuff(chapter.content)
                         ],
-                    ]
+                        chapter_afterward,
+                    ],
                 )
         afterward = None
         if show_afterward and (work.notes_after or series):
